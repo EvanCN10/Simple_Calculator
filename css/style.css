@@ -1,0 +1,17 @@
+/* File CSS */
+
+.container {
+  border: 1px solid black;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-row {
+  background-color: aqua;
+  border: 1px solid white;
+}
+
+.input {
+  width: -webkit-fill-available;
+}
